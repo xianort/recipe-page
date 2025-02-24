@@ -1,0 +1,12 @@
+# Ignore development generated files
+
+.parcel-cache
+node_modules
+dist
+
+assests
+design
+
+LICENSE.txt
+
+pnpm-lock.yaml
