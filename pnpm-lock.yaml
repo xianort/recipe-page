@@ -9,22 +9,22 @@ importers:
   .:
     devDependencies:
       '@tailwindcss/postcss':
-        specifier: ^4.1.4
+        specifier: ^4.0.6
         version: 4.1.4
       parcel:
-        specifier: ^2.14.4
+        specifier: ^2.13.3
         version: 2.14.4(@swc/helpers@0.5.17)(postcss@8.5.3)
       postcss:
-        specifier: ^8.5.3
+        specifier: ^8.5.2
         version: 8.5.3
       prettier:
-        specifier: ^3.5.3
+        specifier: ^3.5.1
         version: 3.5.3
       prettier-plugin-tailwindcss:
         specifier: ^0.6.11
         version: 0.6.11(prettier@3.5.3)
       tailwindcss:
-        specifier: ^4.1.4
+        specifier: ^4.0.6
         version: 4.1.4
 
 packages:
